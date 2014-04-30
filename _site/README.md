@@ -1,27 +1,76 @@
 maptime.github.io
 =================
 
-maptime.io website
+This will be the central repo of the [maptime.io](http://www.maptime.io/) website. This is a [Jekyll](https://github.com/jekyll/jekyll) site served on Github Pages. If your environment is already setup, type in your terminal (the '$' refers to your prompt):
 
-  Map of Maptimes w/ Leaflet.js: http://maptime.github.io/maps/maptimesLeaf.html
-                                 http://maptime.github.io/maps/sidebar.html
-
-  So far there's an overview index: http://maptime.github.io/index
-
-  A geolearning page: http://maptime.github.io/geolearning.html
-
-  Digital Map tool kit: http://maptime.github.io/digitalMapToolKit.html
-
-  Geo sub reddits: http://maptime.github.io/redditmaps.html
-
-  Tumblr:  http://MaptimeSF.tumblr.com
-
-  Wordpress site: http://omgitsmaptime.com/
-
-  Plus a little action in the wikis or issues for some of these maptime repos so if you're not sure what to do with files inside a repo.
-
-Add to or improve these and/or make more pages as Maptime is a collaborative endeavor!
+```
+$ git clone git@github.com:maptime/maptime.github.io.git
+$ cd maptime.github.io
+$ jekyll serve --watch
+```
 
 
+## Setting up your environment
+Set up `git` and `jekyll`, which depend on `ruby` and `homebrew`:
 
-Also feel free to ask questions.
+**For the code snippets below, you'll want to copy everything after the $ and paste into a terminal window.**
+
+## Install Homebrew
+
+1. Paste this into terminal
+
+ ```
+ ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+ 
+```
+
+2. Hit `Return` to start installation. 
+
+3. After it finishes, make sure `brew` is configured correctly by running: 
+
+ ```
+ $ brew doctor
+ ```
+
+## Install Git
+
+1. In terminal, run the following commands:
+
+ ```
+ brew update
+ brew install git
+ ```
+
+2. Then follow the [Set Up Git](https://help.github.com/articles/set-up-git) instructions provided by GitHub to configure your github account through git.
+
+## Install Ruby
+
+1. MacOS comes with a built-in version of Ruby, but it's frequently out of date, and requires installing gems with `sudo`. It's better to install Ruby from homebrew:
+
+ ```
+ brew install ruby
+ ```
+
+2. Then add `/usr/local/opt/ruby/bin` to `$PATH`:
+
+ ```
+$ echo 'export PATH=/usr/local/opt/ruby/bin:$PATH' >> ~/.bash_profile
+ ```
+
+## Install Jekyll
+
+Run the following in terminal:
+
+ ```
+$ gem install jekyll -v 1.4.3
+$ gem install rdiscount
+ ```
+
+## Clone this repo
+
+Clone the [maptime.github.io repo](http://github.com/maptime/maptime.github.io) on your computer. Then switch into that file directory.
+
+```
+$ git clone -b master git@github.com:maptime/maptime.github.io.git
+$ cd maptime.github.io
+```
