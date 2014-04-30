@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>MaptimePDX</title>
+		<description>Portland&#39;s time to hack...on maps!</description>		
+		<link>http://www.maptimepdx.org</link>
+		<atom:link href="http://www.maptimepdx.org/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>April Maptime...No Foolin&#39;</title>
+				<description>&lt;p&gt;This past Wednesday&amp;#39;s Maptime was a hit with 16 geo folk from print cartography to web dev. Presos on &lt;a href=&quot;https://camlistore.org/&quot;&gt;CamliStore&lt;/a&gt;, &lt;a href=&quot;https://github.com/pdxmele/python-geodata-bffs/&quot;&gt;Python and Geodata BFFs&lt;/a&gt;, and &lt;a href=&quot;http://www.spatialdev.com/&quot;&gt;SpatialDev Project Management Tools&lt;/a&gt;. We&amp;#39;re meeting up again this &lt;a href=&quot;http://calagator.org/events/1250465961&quot;&gt;Friday, April 4&lt;/a&gt; for morning coffee and brekkie so bring your projects, ideas, and appetite to &lt;a href=&quot;http://www.glyphpdx.com/&quot;&gt;Glyph Cafe and Art Space&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 04 Apr 2014 00:00:00 -0700</pubDate>
+				<link>http://www.maptimepdx.org/04-04-2014/april-04-meetup.html</link>
+				<guid isPermaLink="true">http://www.maptimepdx.org/04-04-2014/april-04-meetup.html</guid>
+			</item>
+		
+			<item>
+				<title>February Maptime!</title>
+				<description>&lt;p&gt;&lt;strong&gt;What&lt;/strong&gt;: February Maptime: Demos and Hacking&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Where&lt;/strong&gt;: &lt;a href=&quot;http://calagator.org/venues/202393267&quot;&gt;Esri R&amp;amp;D Center&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When&lt;/strong&gt;: Wednesday, February 5, 2014 from 6–8:30pm&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://maptimepdx.org/12-29-2013/january-16-meetup.html&quot;&gt;January&amp;#39;s meetup&lt;/a&gt; was good chance to get our bearing for the year and get a sense of what we&amp;#39;re all getting into. This month, we&amp;#39;ve got a little more structure and we will be starting the meetup with three presentations - an intro &lt;a href=&quot;http://maptimepdx.org/01-22-2014/d3-zoom-bounds.html&quot;&gt;D3&lt;/a&gt;, &lt;a href=&quot;https://www.mapbox.com/tilemill/&quot;&gt;TileMill 1 &amp;amp; 2&lt;/a&gt;, and the guts of the MaptimePDX site. Presos are around 10 minutes but there&amp;#39;s time for Q&amp;amp;A and hands on around the topics. But by all means, &lt;strong&gt;bring your own ideas and projects&lt;/strong&gt;! And as always, &lt;strong&gt;beginners welcome&lt;/strong&gt; so bring your laptops.&lt;/p&gt;
+
+&lt;p&gt;This will be the last meetup at the &lt;a href=&quot;http://calagator.org/venues/202393267&quot;&gt;Esri R&amp;amp;D Center (aka Geoloqi HQ)&lt;/a&gt; as they are moving to new digs. Next month is up for grabs so if you know of a good location, tweet us &lt;a href=&quot;http://twitter.com/maptimepdx&quot;&gt;@maptimepdx&lt;/a&gt; with your idea.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 05 Feb 2014 00:00:00 -0800</pubDate>
+				<link>http://www.maptimepdx.org/02-05-2014/february-05-meetup.html</link>
+				<guid isPermaLink="true">http://www.maptimepdx.org/02-05-2014/february-05-meetup.html</guid>
+			</item>
+		
+	</channel>
+</rss>

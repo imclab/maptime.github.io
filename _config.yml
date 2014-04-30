@@ -1,0 +1,17 @@
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+layouts:     ./_layouts
+limit_posts: 0
+
+relative_permalinks: true
+
+permalink:     /:month-:day-:year/:title.html
+
+baseurl:     /
+pygments:    true
+markdown:    "redcarpet"
+
+name: MaptimePDX
+description: Portland's time to hack...on maps!
+url: http://www.maptimepdx.org
