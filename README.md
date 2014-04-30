@@ -17,16 +17,16 @@ Set up `git` and `jekyll`, which depend on `ruby` and `homebrew`:
 
 ## Install Homebrew
 
-1. Paste this into terminal
+Paste this into terminal
 
  ```
  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
  
 ```
 
-2. Hit `Return` to start installation. 
+Hit `Return` to start installation. 
 
-3. After it finishes, make sure `brew` is configured correctly by running: 
+After it finishes, make sure `brew` is configured correctly by running: 
 
  ```
  $ brew doctor
