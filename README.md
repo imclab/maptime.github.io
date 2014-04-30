@@ -21,8 +21,7 @@ Paste this into terminal
 
  ```
  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
- 
-```
+ ```
 
 Hit `Return` to start installation. 
 
