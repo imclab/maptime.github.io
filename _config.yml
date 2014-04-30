@@ -12,6 +12,6 @@ baseurl:     /
 pygments:    true
 markdown:    "redcarpet"
 
-name: MaptimePDX
-description: Portland's time to hack...on maps!
-url: http://www.maptimepdx.org
+name: Maptime
+description: Time to hack...on maps!
+url: http://www.maptime.io
